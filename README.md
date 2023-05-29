@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoazSamy
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning web backend programming (django/laravel).
+- 🌱 I’m currently learning web backend programming (python).
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me 
       Gmail : moazsamy333@gmail.com
